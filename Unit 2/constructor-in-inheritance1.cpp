@@ -43,7 +43,7 @@ public:
 };
 int main()
 {
-    Sample S;
+    //Sample S;
     Sample S1(10, 20);
     S1.show();
 }
